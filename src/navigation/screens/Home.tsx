@@ -4,10 +4,10 @@ import { StyleSheet, View } from 'react-native';
 export function Home() {
   return (
     <View style={styles.container}>
-      <Text>Home Screen</Text>
+      <Text>Home Screen111</Text>
       <Text>Open up 'src/App.tsx' to start working on your app!</Text>
       <Button screen="Profile" params={{ user: 'jane' }}>
-        Go to Profile
+        Go to Profile1
       </Button>
       <Button screen="Settings">Go to Settings</Button>
     </View>
