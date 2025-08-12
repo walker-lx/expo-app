@@ -19,7 +19,7 @@ import {
 // - Meant to be copied into App.js of an Expo project
 
 const MOCK_CONTACTS = [
-  { id: '1', name: 'Alice Chen', number: '+81 90 1111 2222' },
+  { id: '1', name: 'Alice Chen1', number: '+81 90 1111 2222' },
   { id: '2', name: 'Bob Tanaka', number: '+81 80 3333 4444' },
   { id: '3', name: 'Carol Sato', number: '+81 70 5555 6666' },
   { id: '4', name: 'David Liu', number: '+81 90 7777 8888' },
