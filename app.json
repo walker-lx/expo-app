@@ -16,7 +16,8 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.zj6209.expoappdemo"
     },
     "web": {
       "bundler": "metro",
@@ -37,6 +38,11 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ffdc4f12-69d3-4e89-87a3-7cc1b4abcde9"
+      }
     }
   }
 }
